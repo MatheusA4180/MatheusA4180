@@ -1,6 +1,6 @@
 ### Bem-vindo(a) 👋🏻
  
-  🌱 Atualmente estou aprendendo desenvolvimento mobile.
+ 📱💻 Atualmente estou estatagiando na área de desenvolvimento mobile.
    ## 
  <div>
   <a href="https://github.com/MatheusA4180">
