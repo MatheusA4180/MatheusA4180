@@ -1,7 +1,7 @@
 ### Bem-vindo(a) 👋🏻
  
  📱💻 Atualmente estou estagiando na área de desenvolvimento mobile.<br>
- <a href = "https://github.com/MatheusA4180/MatheusA4180/files/7323000/Curriculo.Matheus.Augusto.pdf">📄 Meu Currículo.</a>
+ <a href = "https://github.com/MatheusA4180/MatheusA4180/files/7735159/Curriculo.atualizado.pdf">📄 Meu Currículo.</a>
 
  <div>
   <a href="https://github.com/MatheusA4180">
