@@ -1,7 +1,7 @@
 ### Bem-vindo(a) 👋🏻
  
- 📱💻 Atualmente estou estagiando na área de desenvolvimento mobile.<br>
- <a href = "https://github.com/MatheusA4180/MatheusA4180/files/7735159/Curriculo.atualizado.pdf">📄 Meu Currículo.</a>
+ 📱💻 Atualmente atuo na área de desenvolvimento mobile com Android.<br>
+ <a href = "https://github.com/MatheusA4180/MatheusA4180/files/13854003/Curriculo.atualizado.pdf">📄 Meu Currículo.</a>
 
  <div>
   <a href="https://github.com/MatheusA4180">
@@ -16,6 +16,7 @@
   <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
@@ -27,7 +28,5 @@
   ## 
   
   <div>
-     <a href="https://wa.me/5531975211803" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheusagusto4180@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-augusto-v-andrade/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
