@@ -1,7 +1,6 @@
 ### Bem-vindo(a) 👋🏻
  
  📱💻 Atualmente atuo na área de desenvolvimento mobile com Android.<br>
- <a href = "https://github.com/MatheusA4180/MatheusA4180/files/13854003/Curriculo.atualizado.pdf">📄 Meu Currículo.</a>
 
  <div>
   <a href="https://github.com/MatheusA4180">
